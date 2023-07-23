@@ -104,4 +104,4 @@ theme: hexo-theme-pure
 deploy:
   type: 'git'
   repo: 'https://github.com/chhh1w/chh1022.github.io.git'
-  branch: master
+  branch: main
